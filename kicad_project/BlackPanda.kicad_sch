@@ -7053,7 +7053,7 @@
     (in_bom yes) (on_board yes)
     (uuid 74771603-deb9-4ce8-bc2c-ba1e6dd13f76)
     (property "Reference" "R27" (id 0) (at 273.05 113.03 90))
-    (property "Value" "2.2K" (id 1) (at 273.05 107.95 90))
+    (property "Value" "2.4K" (id 1) (at 273.05 107.95 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 273.05 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9473,7 +9473,7 @@
       (reference "R26") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/74771603-deb9-4ce8-bc2c-ba1e6dd13f76"
-      (reference "R27") (unit 1) (value "2.2K") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R27") (unit 1) (value "2.4K") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/c8aecc9d-6ce1-403f-8220-2a91b9971c48"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_SKQG_WithStem")
