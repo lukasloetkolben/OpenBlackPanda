@@ -1,4 +1,4 @@
-# Open Source BlackPanda Clone for Openpilot
+# Open Source BlackPanda for Openpilot
 
 **_Warning:_** The device is currently being tested and may be modified!
 
