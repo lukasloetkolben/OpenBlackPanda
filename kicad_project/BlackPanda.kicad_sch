@@ -7890,7 +7890,7 @@
     (property "Reference" "L1" (id 0) (at 175.26 312.42 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "470nH" (id 1) (at 179.07 314.96 90)
+    (property "Value" "47nH" (id 1) (at 179.07 314.96 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Inductor_SMD:L_0603_1608Metric" (id 2) (at 176.53 311.15 0)
@@ -9282,7 +9282,7 @@
       (reference "J2") (unit 1) (value "USB_A TE Connectivity 292303-7 ") (footprint "Connector_USB:USB_A_TE_292303-7_Horizontal")
     )
     (path "/c49181a2-fbf6-4b90-86bc-374e197edae8"
-      (reference "L1") (unit 1) (value "470nH") (footprint "Inductor_SMD:L_0603_1608Metric")
+      (reference "L1") (unit 1) (value "47nH") (footprint "Inductor_SMD:L_0603_1608Metric")
     )
     (path "/68670b30-42a6-4b81-9cd2-3075b007d192"
       (reference "L2") (unit 1) (value "7.2uH") (footprint "Inductor_SMD:L_Wuerth_WE-PDF")
