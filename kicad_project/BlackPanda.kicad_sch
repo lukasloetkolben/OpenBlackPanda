@@ -6331,7 +6331,7 @@
     (property "Reference" "C25" (id 0) (at 302.26 250.19 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100NF" (id 1) (at 300.99 252.73 90)
+    (property "Value" "4.7uF" (id 1) (at 300.99 252.73 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 299.72 247.65 0)
@@ -9213,7 +9213,7 @@
       (reference "C24") (unit 1) (value "10pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/4236d0f6-8821-4c7c-a0a6-efc7b018fe64"
-      (reference "C25") (unit 1) (value "100NF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C25") (unit 1) (value "4.7uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/3dfd07fd-4fbf-4e5a-b40f-fa678140a611"
       (reference "C26") (unit 1) (value "100NF") (footprint "Capacitor_SMD:C_0402_1005Metric")

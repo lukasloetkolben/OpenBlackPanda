@@ -1,6 +1,6 @@
 # Open Source BlackPanda for Openpilot
 
-**_Warning:_** The device is currently being tested and may be modified!
+The device has been tested and works so far without problems.
 
 If you have any questions contact me on Discord: loetkolben#2962
 
