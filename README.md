@@ -1,4 +1,5 @@
 # Open Source BlackPanda for Openpilot
+__This project has moved, a current version can be found here: [OpenpilotHardware](https://github.com/lukasloetkolben/OpenpilotHardware)__
 
 The device has been tested and works so far without problems.
 
